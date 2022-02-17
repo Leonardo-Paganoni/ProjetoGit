@@ -1,0 +1,1 @@
+Está projeto inicial ajuda a usar o git.
